@@ -1,0 +1,60 @@
+    /***********************************************************/
+   /***********************************************************/
+  /******************* | Feuilles De Style  | ****************/
+ /***********************************************************/
+/***********************************************************/
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width:100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    width:100%;
+}
+
+  /********************************************************/
+ /************************ | Page | **********************/
+/********************************************************/
+
+#page {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    /*flex-wrap: wrap;*/
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+  /********************************************************/
+ /***************** | Menu De Navigation | ***************/
+/********************************************************/
+nav{
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+
+  /****************/
+ /** | Divers | **/
+/****************/
+.horizontalSpace{
+    height: 2vw;
+}
+.verticalSpace{
+    width: 2vw;
+}
